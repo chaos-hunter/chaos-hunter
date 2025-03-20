@@ -1,4 +1,7 @@
-## Hi there 👋
+![chaos-hunter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaos-hunter&show_icons=true&theme=radical&cache_seconds=1800)
+
+![chaos-hunter's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos-hunter&layout=compact&theme=radical&cache_seconds=1800)
+
 
 <!--
 **chaos-hunter/chaos-hunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
