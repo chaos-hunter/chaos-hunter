@@ -1,4 +1,4 @@
-Welcome to my projects, I am a computer science student, with a knowlege in c, java, javascript, html, css, python and assembly
+Welcome to my projects, I am a computer science student, with a knowlege in c, java, javascript, html, python and assembly
 ![chaos-hunter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaos-hunter&show_icons=true&theme=radical&cache_seconds=1800)
 
 ![chaos-hunter's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos-hunter&layout=compact&theme=radical&cache_seconds=1800)
